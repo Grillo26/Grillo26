@@ -8,7 +8,7 @@
 
  <img align="right" width="350" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 - 🎓 &nbsp; Studying Computer Engineering at UAJMS (Yacuiba-Bolivia).
 
@@ -20,7 +20,7 @@
  
 - 📫 &nbsp; Please email via carlsenrmt26@gmail.com to contact me.
 
-- 📝 &nbsp; See my [Portafolio](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📝 &nbsp; See my [Portafolio](https://#) to get more info.
 
 - 🌍 &nbsp;  <code><a href="https://www.linkedin.com/in/carlos-torrez-564a741a1/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/grillo.26/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
