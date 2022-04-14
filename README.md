@@ -40,7 +40,7 @@
 - ✒ &nbsp; Photoshop | Ilustrator | Figma
 
 
-<h3>📚 To Learn</h3>
+<h3>📚 Learning</h3>
 
 - 🔧 &nbsp; Eslint | Prettier | 
 
