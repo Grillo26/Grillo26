@@ -33,7 +33,7 @@
 
 - 💻 &nbsp; Java | C++ | C | MySQL | Php | Laravel
 
-- ⚙️ &nbsp; Git | GitHub | Npm
+- ⚙️ &nbsp; Git | Npm
 
 - 🔧 &nbsp; VisualStudio | Brackets | Eclipse | NetBeans
 
