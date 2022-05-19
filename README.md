@@ -4,9 +4,10 @@
   </a>
 </h1>
 <h2>Hi, I'm Carlos Mamani Torrez <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<h3> 👨🏻•💻 About Me </h3>
+ 
+ <!-- <img alt="GIF" width="250" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />-->
 
- <img align="right" width="350" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<h3> 👨🏻•💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
