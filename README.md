@@ -32,13 +32,13 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind | Material UI
 
-- 💻 &nbsp; Java | C++ | C | MySQL | Php | Laravel
+- 💻 &nbsp; Java | C++ | C | MySQL | Php | Laravel | Livewire | Jetstream
 
-- ⚙️ &nbsp; Git | Npm
+- ⚙️ &nbsp; Git | Npm | Composer
 
 - 🔧 &nbsp; VisualStudio | Brackets | Eclipse | NetBeans
 
-- ✒ &nbsp; Photoshop | Ilustrator | Figma
+- ✒ &nbsp; Photoshop | Ilustrator | Figma | Balsamiq Wireframes
 
 
 <h3>📚 Learning</h3>
