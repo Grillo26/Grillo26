@@ -30,7 +30,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind | Material UI
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind | Material UI | Blade
 
 - 💻 &nbsp; Java | C++ | C | MySQL | Php | Laravel | Livewire | Jetstream
 
