@@ -32,7 +32,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind | Material UI | Blade
 
-- 💻 &nbsp; Java | C++ | C | MySQL | Php | Laravel | Livewire | Jetstream
+- 💻 &nbsp; Java | C++ | C | MySQL | Php | Laravel | Livewire | Jetstream | Breeze
 
 - ⚙️ &nbsp; Git | Npm | Composer
 
