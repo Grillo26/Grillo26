@@ -30,9 +30,13 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind | Material UI | Blade
+- 🌐 &nbsp; HTML | CSS | JavaScript 
 
-- 💻 &nbsp; Java | C++ | C | MySQL | Php | Laravel | Livewire | Jetstream | Breeze | Backpack
+- 💡 &nbsp; Bootstrap | Tailwind | Material UI | Blade
+
+- 💻 &nbsp; Java | C++ | C | MySQL | Php 
+
+- 🔨 &nbsp; Laravel | Livewire | Jetstream | Breeze | Backpack
 
 - ⚙️ &nbsp; Git | Npm | Composer
 
@@ -43,7 +47,9 @@
 
 <h3>📚 Learning</h3>
 
-- 🔧 &nbsp; Eslint | Prettier | 
+- 🔧 &nbsp; Eslint | Prettier |
+
+- 🧷 &nbsp; Backpack  
 
 <hr>
 <!--
