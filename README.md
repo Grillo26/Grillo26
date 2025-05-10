@@ -15,15 +15,15 @@
 
 - 🌱 &nbsp; Learning about WebSites and Systems of Control/Management.
 
-- ❤ &nbsp; Frontend Lover.
+- ❤ &nbsp; Backend Lover.
 
-- ✍️ &nbsp; Pursuing all about UX Design as hobbies/side hustles.
+<!-- ✍️ &nbsp; Pursuing all about UX Design as hobbies/side hustles.-->
  
 - 📫 &nbsp; Please email via carlsenrmt26@gmail.com to contact me.
 
-- 📝 &nbsp; See my [Portafolio](https://grillo26.github.io/portfolio/) to get more info. 
+- 📝 &nbsp; See my [Portafolio](https://portfoliogrillo.vercel.app/) to get more info. 
 
-- 🌍 &nbsp;  <code><a href="https://www.linkedin.com/in/carlos-torrez-564a741a1/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+- 🌍 &nbsp;  <code><a href="www.linkedin.com/in/carlosenriquemamani" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/grillo.26/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
   
 
@@ -32,13 +32,13 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 
-- 💡 &nbsp; Bootstrap | Tailwind | Material UI | Blade
+- 💡 &nbsp; Bootstrap |  Tailwind  | Blade
 
-- 💻 &nbsp; Java | C++ | C | MySQL | Php 
+- 💻 &nbsp; Java | Php  | MySQL 
 
-- 🔨 &nbsp; Laravel | Livewire | Jetstream | Breeze | Backpack
+- 🔨 &nbsp; Laravel | Livewire | Jetstream | SpringBoot
 
-- ⚙️ &nbsp; Git | Npm | Composer
+- ⚙️ &nbsp; Git | Npm | Composer | Postman
 
 - 🔧 &nbsp; VisualStudio | Brackets | Eclipse | NetBeans
 
@@ -47,9 +47,9 @@
 
 <h3>📚 Learning</h3>
 
-- 🔧 &nbsp; Eslint | Prettier |
+- 🔧 &nbsp; SpringBoot | Sprind Data JPA |
 
-- 🧷 &nbsp; Backpack  
+- 🧷 &nbsp; React
 
 <hr>
 <!--
