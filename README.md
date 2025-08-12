@@ -15,7 +15,7 @@
 
 - 🌱 &nbsp; Learning about WebSites and Systems of Control/Management.
 
-- ❤ &nbsp; Backend Lover.
+- ❤ &nbsp; Frontend Lover.
 
 <!-- ✍️ &nbsp; Pursuing all about UX Design as hobbies/side hustles.-->
  
