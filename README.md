@@ -50,6 +50,8 @@
 - 🔧 &nbsp; SpringBoot | Sprind Data JPA |
 
 - 🧷 &nbsp; React
+  
+- 📱 &nbsp; Flutter
 
 <hr>
 <!--
