@@ -11,9 +11,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
-- 🎓 &nbsp; Studying Computer Engineering at UAJMS (Yacuiba-Bolivia).
-
-- 🌱 &nbsp; Learning about WebSites and Systems of Control/Management.
+- 🎓 &nbsp; UX/UI Design for Digital Product Development – Postgraduate Diploma (In Progress).
 
 - ❤ &nbsp; Frontend Lover.
 
