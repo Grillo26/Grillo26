@@ -30,7 +30,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 
-- 💡 &nbsp; Bootstrap |  Tailwind  | Blade
+- 💡 &nbsp; Angular | ReactJs | Bootstrap |  Tailwind  | Blade
 
 - 💻 &nbsp; Java | Php  | MySQL 
 
@@ -38,7 +38,7 @@
 
 - ⚙️ &nbsp; Git | Npm | Composer | Postman
 
-- 🔧 &nbsp; VisualStudio | Brackets | Eclipse | NetBeans
+- 🔧 &nbsp; VisualStudio | IntelliJ IDEA
 
 - ✒ &nbsp; Photoshop | Ilustrator | Figma | Balsamiq Wireframes
 
@@ -47,7 +47,7 @@
 
 - 🔧 &nbsp; SpringBoot | Sprind Data JPA |
 
-- 🧷 &nbsp; React
+- 🧷 &nbsp; Angular | React
   
 - 📱 &nbsp; Flutter
 
