@@ -13,7 +13,7 @@
 
 - 🎓 &nbsp; UX/UI Design for Digital Product Development – Postgraduate Diploma (In Progress).
 
-- ❤ &nbsp; Frontend Lover.
+<!--- ❤ &nbsp; Frontend Lover. -->
 
 <!-- ✍️ &nbsp; Pursuing all about UX Design as hobbies/side hustles.-->
  
