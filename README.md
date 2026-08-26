@@ -7,49 +7,45 @@
  
  <img alt="GIF" width="350" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🚀 &nbsp; Software Developer focused on building REST APIs with **Spring Boot** and reactive frontends with **Angular**.
+  
+- 🎓 &nbsp; Postgraduate Diploma in **UX/UI Design for Digital Product Development**.
 
-- 🎓 &nbsp; UX/UI Design for Digital Product Development – Postgraduate Diploma (In Progress).
-
+- 🎨 &nbsp; Passionate about clean architecture, good design patterns, and intuitive UI/UX interfaces.
+  
 <!--- ❤ &nbsp; Frontend Lover. -->
 
 <!-- ✍️ &nbsp; Pursuing all about UX Design as hobbies/side hustles.-->
- 
-- 📫 &nbsp; Please email via carlsenrmt26@gmail.com to contact me.
-
-- 📝 &nbsp; See my [Portafolio](https://portfoliogrillo.vercel.app/) to get more info. 
-
+- 📝 &nbsp; Explore my work at my [Portfolio](https://portfoliogrillo.vercel.app/).
+  
+- 📫 &nbsp; Reach out via **carlsenrmt26@gmail.com**.
+  
 - 🌍 &nbsp;  <code><a href="www.linkedin.com/in/carlosenriquemamani" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/grillo.26/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
   
+<h3>🛠 Main Tech Stack</h3>
 
-
-<h3>🛠 Tech Stack</h3>
-
-- 🌐 &nbsp; HTML | CSS | JavaScript 
-
-- 💡 &nbsp; Angular | ReactJs | Bootstrap |  Tailwind  | Blade
-
-- 💻 &nbsp; Java | Php  | MySQL 
-
-- 🔨 &nbsp; Laravel | Livewire | Jetstream | SpringBoot
-
-- ⚙️ &nbsp; Git | Npm | Composer | Postman
-
-- 🔧 &nbsp; VisualStudio | IntelliJ IDEA
-
-- ✒ &nbsp; Photoshop | Ilustrator | Figma | Balsamiq Wireframes
-
-
-<h3>📚 Learning</h3>
-
-- 🔧 &nbsp; SpringBoot | Sprind Data JPA |
-
-- 🧷 &nbsp; Angular | React
+- ☕ **Backend:** Java | Spring Boot | Spring Data JPA | Spring Security
   
-- 📱 &nbsp; Flutter
+- 🅰️ **Frontend:** Angular | TypeScript | HTML5 | CSS3 | Tailwind CSS
+  
+- 🗄️ **Databases:** PostgreSQL | MySQL
+  
+- ⚙️ **Tools & Workflow:** Git | GitHub | Postman | Maven | Docker
+  
+- 💻 **IDEs:** IntelliJ IDEA | VS Code
+  
+- ✒️ **UX/UI & Prototyping:** Figma | Photoshop
+
+<h3>📚 Currently Learning & Improving</h3>
+
+- ☕ **Java & Spring:** Advanced Spring Data JPA, Microservices Architecture & DTO Mappings.
+  
+- 🅰️ **Angular:** RxJS, Signals & State Management.
+  
+- 📱 **Mobile Development:** Flutter.
 
 <hr>
 <!--
