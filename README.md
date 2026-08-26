@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;This+is+My+Repo....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Backend+%26+Frontend+Developer;Building+Scalable+Apps...&center=true&size=30">
   </a>
 </h1>
 <h2>Hi, I'm Carlos Mamani Torrez  <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h2>
