@@ -1,20 +1,19 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Backend+%26+Frontend+Developer;Building+Scalable+Apps...&center=true&size=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Java+%26+Backend+Developer;Building+Robust+REST+APIs...&center=true&size=26&width=550&height=50">  
   </a>
 </h1>
 <h2>Hi, I'm Carlos Mamani Torrez  <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h2>
  
- <img alt="GIF" width="350" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+<img alt="GIF" width="350" align="right" style="margin-left: 25px; margin-bottom: 15px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h3> 👨🏻 About Me </h3>
 
-- 🚀 &nbsp; Software Developer focused on building REST APIs with **Spring Boot** and reactive frontends with **Angular**.
+- ☕ &nbsp; **Backend Developer** focused on building scalable REST APIs and enterprise solutions with **Java & Spring Boot**.
   
-- 🎓 &nbsp; Postgraduate Diploma in **UX/UI Design for Digital Product Development**.
+- 🏗️ &nbsp; Passionate about **Clean Code, Layered Architecture (DTOs, Services, Repositories)**, and Data Persistence with **Spring Data JPA**.
+  
+- 🅰️ &nbsp; Experience integrating backend systems with modern web applications using **Angular**.
 
-- 🎨 &nbsp; Passionate about clean architecture, good design patterns, and intuitive UI/UX interfaces.
-  
 <!--- ❤ &nbsp; Frontend Lover. -->
 
 <!-- ✍️ &nbsp; Pursuing all about UX Design as hobbies/side hustles.-->
@@ -27,11 +26,11 @@
   
 <h3>🛠 Main Tech Stack</h3>
 
-- ☕ **Backend:** Java | Spring Boot | Spring Data JPA | Spring Security
+- ☕ **Backend:** Java | Spring Boot | Spring Data JPA | REST APIs | Maven
+
+- 🗄️ **Databases:** PostgreSQL | MySQL | Hibernate (ORM)
   
 - 🅰️ **Frontend:** Angular | TypeScript | HTML5 | CSS3 | Tailwind CSS
-  
-- 🗄️ **Databases:** PostgreSQL | MySQL
   
 - ⚙️ **Tools & Workflow:** Git | GitHub | Postman | Maven | Docker
   
@@ -41,12 +40,12 @@
 
 <h3>📚 Currently Learning & Improving</h3>
 
-- ☕ **Java & Spring:** Advanced Spring Data JPA, Microservices Architecture & DTO Mappings.
+- ☕ **Spring Ecosystem:** Advanced Spring Security, DTO Mapping Strategies, and JPQL Performance Optimization.
   
+- 🏛️ **Architecture:** Microservices, Clean Architecture & Unit Testing.
+
 - 🅰️ **Angular:** RxJS, Signals & State Management.
   
-- 📱 **Mobile Development:** Flutter.
-
 <hr>
 <!--
 <h3>&#x1f4c8  Git Stats</h3>
