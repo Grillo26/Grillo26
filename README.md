@@ -21,8 +21,8 @@
   
 - 📫 &nbsp; Reach out via **carlsenrmt26@gmail.com**.
   
-- 🌍 &nbsp;  <code><a href="www.linkedin.com/in/carlosenriquemamani" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/grillo.26/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+- 🌍 &nbsp; <code><a href="https://www.linkedin.com/in/carlosenriquemamani/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/thegrillo__/" target="_blank" rel="noopener noreferrer" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
   
 <h3>🛠 Main Tech Stack</h3>
 
